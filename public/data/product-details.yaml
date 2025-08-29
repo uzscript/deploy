@@ -1,0 +1,106 @@
+"6862541":
+  badge: "NEW"
+  tags: 
+    - "ESX"
+    - "QBCore"
+    - "QBox"
+  summary:
+    text: "Advanced Vehicle Shop with Interactive 3D Showroom - Professional FiveM script with customizable finance system, multiple dealership types, and modern React UI. Perfect for servers looking to enhance their vehicle shopping experience."
+    badge: "Quick Summary"
+  media:
+    - type: "video"
+      url: "https://www.youtube.com/embed/nYvfX3XuJSs"
+      thumbnail: "https://uz-scripts.com/scripts/vehicle-shop/fivem-vehicle-shop.webp"
+      title: "Vehicle Shop Demo"
+    - type: "image"
+      url: "https://uz-scripts.com/scripts/vehicle-shop/fivem-vehicle-shop.webp"
+      title: "Vehicle Shop Main"
+    - type: "image"
+      url: "https://uz-scripts.com/scripts/vehicle-shop/vehicle-shop-1.webp"
+      title: "Interface Preview"
+    - type: "image"
+      url: "https://uz-scripts.com/scripts/vehicle-shop/vehicle-shop-2.webp"
+      title: "Shop Categories"
+    - type: "image"
+      url: "https://uz-scripts.com/scripts/vehicle-shop/vehicle-shop-3.webp"
+      title: "Purchase Flow"
+    - type: "image"
+      url: "https://uz-scripts.com/scripts/vehicle-shop/vehicle-shop-4.webp"
+      title: "Admin Panel"
+    - type: "image"
+      url: "https://uz-scripts.com/scripts/vehicle-shop/vehicle-shop-5.webp"
+      title: "Admin Panel"
+    - type: "image"
+      url: "https://uz-scripts.com/scripts/vehicle-shop/vehicle-shop-6.webp"
+      title: "Admin Panel"
+    - type: "image"
+      url: "https://uz-scripts.com/scripts/vehicle-shop/vehicle-shop-7.webp"
+      title: "Admin Panel"
+  features:
+    - icon: "🚗"
+      title: "Interactive 3D Showroom"
+      description: "Players can explore vehicles in an immersive 3D environment with full camera control - zoom, rotate, and inspect every detail before making a purchase."
+    - icon: "💰"
+      title: "Fully Customizable Finance System"
+      description: "Configure your own installment plans (4, 8, 12+ payments) with adjustable down payment rates, interest rates, and payment intervals. Each dealership can have unique financing options tailored to your server's economy."
+    - icon: "🎨"
+      title: "Customizable Color Palette"
+      description: "Define your own color options for each dealership with hex color codes and vehicle color indexes. Add unlimited colors or restrict to specific palettes - complete control over vehicle appearance options."
+    - icon: "🏢"
+      title: "Multiple Dealership Types"
+      description: "Support for land vehicles, boats, helicopters, and planes. Each dealership can be configured with specific vehicle categories and unique locations."
+    - icon: "🎯"
+      title: "Advanced Targeting System"
+      description: "Choose between marker-based or target-based interactions (qb-target, ox_target) with customizable markers and drawtext options."
+    - icon: "⚡"
+      title: "Performance Optimized"
+      description: "Built with modern React and TypeScript frontend, optimized Lua backend ensuring smooth performance without impacting server resources."
+    - icon: "🗺️"
+      title: "Integrated Blip System"
+      description: "Customizable map blips for each dealership with different colors, scales, and visibility options to help players locate vehicle shops easily."
+    - icon: "📱"
+      title: "Modern UI Design"
+      description: "Responsive and intuitive interface built with React, featuring smooth animations, color palettes, and professional styling for the best user experience."
+    - icon: "⚙️"
+      title: "Complete Configurability"
+      description: "Every aspect is customizable - from camera angles and sensitivity to payment grace periods and repo timers. Adapt the entire system to match your server's unique requirements."
+  requirements:
+    - title: "Database Dependency"
+      description: "oxmysql - Required for data storage and management"
+    - title: "Framework Compatibility"
+      description: "Compatible with Standalone, QBCore, Qbox, and ESX frameworks"
+    - title: "Server Version"
+      description: "FiveM Server build 7290 or newer required for optimal performance"
+  faq:
+    - question: "How long does it take to receive VIP status?"
+      answer: "VIP status is typically applied within 5 minutes of purchase completion."
+    - question: "Is VIP status permanent?"
+      answer: "Yes, once purchased, VIP status is permanent and includes all future VIP updates."
+
+"6521945":
+  badge: "POPULAR"
+  tags:
+    - "QBCore"
+    - "QBox"
+  summary:
+    text: "Premium gaming package with exclusive features and enhanced gameplay - Instant setup with full framework compatibility."
+    badge: "Best Value"
+  media: []
+  detailed_description: ""
+  features: []
+  requirements: []
+  faq: []
+
+"typhon-shop":
+  badge: "HOT"
+  tags:
+    - "ESX"
+    - "QBox"
+  summary:
+    text: "High-performance shop system with advanced features - Optimized for large servers with extensive customization options."
+    badge: "Hot Deal"
+  media: []
+  detailed_description: ""
+  features: []
+  requirements: []
+  faq: []

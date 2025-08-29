@@ -1,0 +1,60 @@
+siteDefaults:
+  siteName: "UZ Scripts"
+  defaultTitle: "FiveM Scripts by UZ Scripts | ESX, Qbox, QBCore"
+  defaultDescription: "Professional FiveM scripts with advanced features and ongoing support"
+  defaultKeywords: "FiveM Scripts, FiveM Resources, ESX Scripts, QBCore Scripts, GTA V Mods"
+  defaultOgImage: "/og-image.png"
+  twitterHandle: "@uzscripts"
+  locale: "en_US"
+  themeColor: "#000000"
+
+pages:
+  "/":
+    title: "FiveM Scripts by UZ Scripts | ESX, Qbox, QBCore"
+    description: "Get premium FiveM scripts from UZ Scripts. Optimized for QBCore, Qbox and ESX frameworks to deliver the best server experience."
+    keywords: "FiveM Scripts, FiveM Resources, ESX Scripts, QBCore Scripts, Premium Scripts, GTA V Server Mods, ESX, QBCore, Qbox"
+    openGraph:
+      type: "website"
+
+  "/products":
+    title: "All Scripts - Premium FiveM Scripts & Resources"
+    description: "Browse our complete collection of premium FiveM scripts and resources. Professional ESX and QBCore scripts with advanced features and ongoing support."
+    keywords: "FiveM Scripts, FiveM Resources, ESX Scripts, QBCore Scripts, GTA V Mods, FiveM Server Scripts"
+    openGraph:
+      type: "website"
+
+  "/products/[id]":
+    titleTemplate: "{name} | UZ Scripts | QBCore, Qbox, ESX FiveM Scripts"
+    descriptionTemplate: "Professional FiveM script - {name} with advanced features and ongoing support. {description}"
+    keywordsTemplate: "{name}, FiveM Scripts, FiveM Resources, {category}, GTA V Mods"
+    openGraph:
+      type: "website"
+    customMeta:
+      "product:price:amount": "{base_price}"
+      "product:price:currency": "{currency}"
+      "product:category": "{category}"
+      "product:availability": "in stock"
+
+  "/subscribe":
+    title: "Subscribe - Get Premium Access to FiveM Scripts"
+    description: "Subscribe to get unlimited access to our premium FiveM scripts collection. Professional ESX and QBCore scripts with priority support."
+    keywords: "FiveM Subscription, Premium FiveM Scripts, ESX Scripts Subscription, QBCore Scripts Access"
+    openGraph:
+      type: "website"
+
+  "/support":
+    title: "Support - Get Help with FiveM Scripts"
+    description: "Get professional support for your FiveM scripts. Contact our team for installation help, customization, and technical assistance."
+    keywords: "FiveM Support, FiveM Scripts Help, ESX Support, QBCore Support, Technical Assistance"
+    openGraph:
+      type: "website"
+
+  "/products/[id]/not-found":
+    title: "Product Not Found - Page Not Found"
+    description: "The product you are looking for could not be found. Browse our available FiveM scripts and resources."
+    keywords: "Product Not Found, FiveM Scripts, Browse Scripts"
+    robots:
+      index: false
+      follow: true
+    openGraph:
+      type: "website"

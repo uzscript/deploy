@@ -1,0 +1,26 @@
+# Site Ayarları
+site:
+  name: "Tebex Store"
+  description: "Premium gaming store"
+  url: "https://example.com"
+  
+# Tema Ayarları  
+theme:
+  primaryColor: "#7950f2"
+  secondaryColor: "#f06595"
+  darkMode: true
+  
+# Sosyal Medya
+social:
+  twitter: "@tebex"
+  discord: "discord.gg/tebex"
+  youtube: "youtube.com/tebex"
+
+# SEO Ayarları
+seo:
+  title: "Tebex Store - Premium Gaming"
+  description: "Best gaming products"
+  keywords:
+    - gaming
+    - store
+    - premium

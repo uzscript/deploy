@@ -1,0 +1,25 @@
+category_id: "2662971"
+header:
+  title: "Unlimited Script Access"
+  subtitle: "One subscription, endless possibilities. Access our entire library of premium FiveM scripts with exclusive member benefits."
+benefits:
+  title: "Subscription Benefits"
+  items:
+    - icon: "infinity"
+      title: "Unlimited Downloads"
+      description: "Download any script from our library without individual purchases"
+    - icon: "crown"
+      title: "Premium Support"
+      description: "24/7 priority support with faster response times"
+    - icon: "refresh"
+      title: "Automatic Updates"
+      description: "Get the latest versions and features instantly"
+    - icon: "star"
+      title: "Exclusive Content"
+      description: "Access subscriber-only scripts and early releases"
+    - icon: "shield"
+      title: "License Protection"
+      description: "Commercial use license for all downloaded scripts"
+included_scripts:
+  title: "Included Scripts"
+  subtitle: "Get instant access to our entire script library - over {count}+ premium scripts worth hundreds of dollars"

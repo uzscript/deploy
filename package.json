@@ -1,0 +1,12 @@
+{
+  "name": "tebex-headless-store-build",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node server.js",
+    "build": "echo 'Build already completed'"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

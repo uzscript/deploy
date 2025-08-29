@@ -1,0 +1,147 @@
+header:
+  title: "Visually Unique & Functional FiveM Scripts"
+  subtitle: "Premium Scripts, Innovation & Excellence! for a Unique Experience!"
+  cta_buttons:
+    - text: "Explore Scripts"
+      link: "/products"
+      variant: "filled"
+      color: "dark"
+    - text: "Subscribe"
+      link: "/subscribe"
+      variant: "outline"
+      color: "gray"
+  stats:
+    - number: "5000+"
+      label: "Happy Customers"
+    - number: "99.9%"
+      label: "Uptime"
+    - number: "24/7"
+      label: "Support"
+    - number: "50+"
+      label: "Premium Scripts"
+
+featured:
+  title: "Featured Scripts"
+  subtitle: "Our most popular and highly-rated packages"
+  product_ids:
+    - "typhon-shop"
+    - "6521945"
+    - "6862541"
+
+features:
+  title: "Why Choose Our Store?"
+  subtitle: "Premium quality, instant delivery, and 24/7 support"
+  items:
+    - icon: "shield-check"
+      title: "Secure Payments"
+      description: "All transactions are protected with enterprise-grade encryption and fraud protection."
+    - icon: "clock"
+      title: "Instant Delivery"
+      description: "Get your purchases immediately after payment completion. No waiting, just gaming."
+    - icon: "headphones"
+      title: "24/7 Support"
+      description: "Our dedicated support team is available around the clock to help with any questions."
+    - icon: "users"
+      title: "Active Community"
+      description: "Join thousands of satisfied customers in our Discord community for tips and updates."
+    - icon: "refresh"
+      title: "Regular Updates"
+      description: "All our scripts and packages receive regular updates and new feature additions."
+    - icon: "award"
+      title: "Quality Guaranteed"
+      description: "Every product is thoroughly tested and comes with our quality guarantee."
+
+faq:
+  title: "Frequently Asked Questions"
+  subtitle: "Got questions? We've got answers"
+  use_card_layout: true
+  items:
+    - question: "What payment methods do you accept?"
+      answer: "We accept all major credit cards (Visa, Mastercard, American Express), PayPal, Apple Pay, Google Pay, and various regional payment methods through our secure <a href='https://tebex.io' target='_blank'>Tebex payment system</a>. All transactions are protected with bank-level encryption."
+    - question: "How quickly will I receive my purchase?"
+      answer: "All digital products are delivered instantly upon payment confirmation. You'll receive immediate access through <a href='https://portal.cfx.re' target='_blank'>Cfx.re Portal</a> with automatic installation guides and setup instructions."
+    - question: "What is your refund and return policy?"
+      answer: "We offer a comprehensive 7-day money-back guarantee for all digital products. Refunds are processed within 24-48 hours for technical issues, compatibility problems, or if you're not completely satisfied. View our full <a href='/refund-policy' target='_blank'>Refund Policy</a>."
+    - question: "Are your products compatible with my server?"
+      answer: "Our products support all major FiveM frameworks including QBCore, QBX (QBox), ESX Legacy, and custom frameworks. Each product page lists specific compatibility requirements. Contact our <a href='https://discord.gg/8zhnDMMfNk' target='_blank'>technical support team</a> for compatibility verification."
+    - question: "Do you offer technical support and installation help?"
+      answer: "Yes! We provide comprehensive technical support including installation assistance, configuration help, and troubleshooting. Our expert team is available through <a href='https://discord.gg/8zhnDMMfNk' target='_blank'>Discord</a>, <a href='mailto:support@uzscripts.com'>email support</a>, and detailed documentation."
+    - question: "Can I get updates and new features?"
+      answer: "All purchases include lifetime updates at no additional cost. You'll receive automatic notifications for new features, security updates, framework compatibility updates, and performance improvements. Updates are delivered through your customer portal."
+    - question: "Is my purchase secure and licensed?"
+      answer: "Absolutely. All products are protected by Tebex escrow system and come with proper licensing. Your purchase is tied to your account permanently, includes anti-piracy protection, and you receive a legitimate license for commercial use on your servers."
+    - question: "Can I customize or modify the products?"
+      answer: "Yes! While our products are escrow-protected for security, they feature extensive configuration systems, customizable UI elements, and detailed documentation. We provide modification guides and free updates for customizations."
+
+testimonials:
+  title: "What Our Customers Say"
+  subtitle: "Don't just take our word for it"
+  items:
+    - name: "Ramatan"
+      discord_id: "(@vramatan)"
+      avatar: "https://images-ext-1.discordapp.net/external/6lmTwXTyA5eXjHPfecSftlJOpUGJ1eKCczDCeIsO-UY/https/cdn.discordapp.com/avatars/1036685642618372197/38f1221d2a2a32ef5a6ec3a1b3e3b34f.webp?format=webp"
+      rating: 5
+      comment: "Really good scripts that are worth their price although I have a few but I am very satisfied, I am just waiting for the next ones to be even better"
+      date: "2024-11-26"
+    - name: "404"
+      discord_id: "(@__404__)"
+      avatar: ""
+      rating: 5
+      comment: "Contacted about scripts and was very nice and talked about wanting to meet the needs of the customer and what we like. I appreciate when I purchase something that the developer does this I know it can be hard todo so its nice to see when the developer takes the extra step. As for the future I hope the see the scripts more editable when needed for different situations / servers."
+      date: "2024-04-16"
+    - name: "luciferangelus"
+      discord_id: "(@luciferangelus)"
+      avatar: "https://images-ext-1.discordapp.net/external/VfZrGflj05yW69IvUSjVI3IL9j2G6cuOaCOnnxijiIY/https/cdn.discordapp.com/avatars/392464687717154817/132f4f66de168b6695fc557fca6949b0.webp?format=webp"
+      rating: 5
+      comment: "Pause Menu - A very optimised script and clean. 100% recomment it as it has a nice feature with the daily bonus ;)"
+      date: "2024-11-30"
+    - name: "its_koza"
+      discord_id: "(@its_koza)"
+      avatar: "https://images-ext-1.discordapp.net/external/4CvVEwV-xkysSoP0O-iQbMFtqL298V2OsbF4CdI3Kxg/https/cdn.discordapp.com/avatars/1326623192177049600/d2afbf3ecf9408b1e9bffc31a7ad796c.webp?format=webp"
+      rating: 5
+      comment: "Well, it was interesting at first installing the Character system on QBox but sure enough the entire thing got an update to support QBox to fix the issues myself and possibly others were facing. 10/10 support and hands down to the developers for putting in the work asap. Thank you to the team for making this happen. Would recommend"
+      date: "2025-03-06"
+    - name: "Sql"
+      discord_id: "(@sql__)"
+      avatar: ""
+      rating: 5
+      comment: "Excellent service, at first I had some issues with configuring the resource on my server, although the Support team rapidly managed to sort every issue for me"
+      date: "2025-01-25"
+
+newsletter:
+  title: "Stay Updated"
+  subtitle: "Get notified about new products, sales, and exclusive offers"
+  placeholder: "Enter your email address"
+  button_text: "Subscribe Now"
+  privacy_text: "We respect your privacy. Unsubscribe at any time."
+
+footer:
+  company:
+    name: "UZ Scripts"
+    logo: "/logo.webp"
+    description: "Premium FiveM scripts and resources for your server. Quality, performance, and 24/7 support guaranteed."
+    website: "https://uz-scripts.com/"
+  social_links:
+    - name: "YouTube"
+      icon: "youtube"
+      url: "https://youtube.com/@uzscripts"
+    - name: "Discord"
+      icon: "discord"
+      url: "https://discord.gg/8zhnDMMfNk"
+  menu_sections:
+    - title: "Pages"
+      links:
+        - text: "Home"
+          url: "/"
+        - text: "Explore Scripts"
+          url: "/products"
+    - title: "Support"
+      links:
+        - text: "Discord Support"
+          url: "https://discord.gg/8zhnDMMfNk"
+          external: true
+        - text: "Email Support"
+          url: "mailto:support@uzscripts.com"
+          external: true
+        - text: "Documentation"
+          url: "https://docs.uz-scripts.com/"
